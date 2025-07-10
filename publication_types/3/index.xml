@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Fei Xue Academic</title>
+    <link>https://keainvhai.github.io/publication_types/3/</link>
+      <atom:link href="https://keainvhai.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://keainvhai.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>3</title>
+      <link>https://keainvhai.github.io/publication_types/3/</link>
+    </image>
+    
+    <item>
+      <title>Preventing Real-world Doxing by Cataloging Incidents: A Doxing Incident Database</title>
+      <link>https://keainvhai.github.io/publication/preprint/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://keainvhai.github.io/publication/preprint/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper introduces the Doxing Incident Database (DID), a structured repository of real-world doxing incidents.&lt;br&gt;
+By organizing cases with metadata such as victim profile, platform, and incident timeline, the database enables large-scale analysis and helps researchers, policymakers, and journalists understand online harm patterns.&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;p&gt;Shan, G., Riedl, C., &amp;amp; Xue, F. (2025). &lt;em&gt;Preventing Real-world Doxing by Cataloging Incidents: A Doxing Incident Database&lt;/em&gt;. SSRN Working Paper. 
+&lt;/p&gt;
+&lt;h2 id=&#34;external-link&#34;&gt;External Link&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

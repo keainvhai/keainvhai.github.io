@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React | Fei Xue Academic</title>
+    <link>https://keainvhai.github.io/tags/react/</link>
+      <atom:link href="https://keainvhai.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <description>React</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://keainvhai.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>React</title>
+      <link>https://keainvhai.github.io/tags/react/</link>
+    </image>
+    
+    <item>
+      <title>Doxxing Report Platform</title>
+      <link>https://keainvhai.github.io/project/doxxing-report/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://keainvhai.github.io/project/doxxing-report/</guid>
+      <description>&lt;p&gt;A platform for anonymous reporting and database collection of doxxing events, featuring:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Full-text search&lt;/li&gt;
+&lt;li&gt;Image handling&lt;/li&gt;
+&lt;li&gt;Privacy-conscious design&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Find A Fur Baby</title>
+      <link>https://keainvhai.github.io/project/fur-baby/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://keainvhai.github.io/project/fur-baby/</guid>
+      <description>&lt;p&gt;A pet adoption platform with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Responsive and accessible UI&lt;/li&gt;
+&lt;li&gt;Keyboard navigation and ARIA&lt;/li&gt;
+&lt;li&gt;Vite-based fast build&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

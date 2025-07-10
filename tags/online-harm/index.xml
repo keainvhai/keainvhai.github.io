@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Online Harm | Fei Xue Academic</title>
+    <link>https://keainvhai.github.io/tags/online-harm/</link>
+      <atom:link href="https://keainvhai.github.io/tags/online-harm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Online Harm</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://keainvhai.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Online Harm</title>
+      <link>https://keainvhai.github.io/tags/online-harm/</link>
+    </image>
+    
+    <item>
+      <title>Doxxing Report Platform</title>
+      <link>https://keainvhai.github.io/project/doxxing-report/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://keainvhai.github.io/project/doxxing-report/</guid>
+      <description>&lt;p&gt;A platform for anonymous reporting and database collection of doxxing events, featuring:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Full-text search&lt;/li&gt;
+&lt;li&gt;Image handling&lt;/li&gt;
+&lt;li&gt;Privacy-conscious design&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

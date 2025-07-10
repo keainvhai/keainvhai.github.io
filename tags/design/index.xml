@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design | Fei Xue Academic</title>
+    <link>https://keainvhai.github.io/tags/design/</link>
+      <atom:link href="https://keainvhai.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
+    <description>Design</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://keainvhai.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Design</title>
+      <link>https://keainvhai.github.io/tags/design/</link>
+    </image>
+    
+    <item>
+      <title>Child Art Magazine</title>
+      <link>https://keainvhai.github.io/project/child-art/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://keainvhai.github.io/project/child-art/</guid>
+      <description>&lt;p&gt;Contributed frontend development for a visual magazine homepage with:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Tailwind-based layout&lt;/li&gt;
+&lt;li&gt;Carousel and animation support&lt;/li&gt;
+&lt;li&gt;Data-driven component refactor&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

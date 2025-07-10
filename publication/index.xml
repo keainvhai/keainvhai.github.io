@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Fei Xue Academic</title>
+    <link>https://keainvhai.github.io/publication/</link>
+      <atom:link href="https://keainvhai.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://keainvhai.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Publications</title>
+      <link>https://keainvhai.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Preventing Real-world Doxing by Cataloging Incidents: A Doxing Incident Database</title>
+      <link>https://keainvhai.github.io/publication/preprint/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://keainvhai.github.io/publication/preprint/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;This paper introduces the Doxing Incident Database (DID), a structured repository of real-world doxing incidents.&lt;br&gt;
+By organizing cases with metadata such as victim profile, platform, and incident timeline, the database enables large-scale analysis and helps researchers, policymakers, and journalists understand online harm patterns.&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;p&gt;Shan, G., Riedl, C., &amp;amp; Xue, F. (2025). &lt;em&gt;Preventing Real-world Doxing by Cataloging Incidents: A Doxing Incident Database&lt;/em&gt;. SSRN Working Paper. 
+&lt;/p&gt;
+&lt;h2 id=&#34;external-link&#34;&gt;External Link&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research on System of Access and Benefit Sharing of Traditional Knowledge Related to Genetic Resources</title>
+      <link>https://keainvhai.github.io/publication/journal-article/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://keainvhai.github.io/publication/journal-article/</guid>
+      <description>&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;The paper examines China’s legal and policy frameworks for the access and benefit sharing (ABS) of traditional knowledge associated with genetic resources. It evaluates current legislation, identifies challenges, and proposes improvements to ensure fairness and biodiversity conservation in compliance with international agreements.&lt;/p&gt;
+&lt;h2 id=&#34;citation&#34;&gt;Citation&lt;/h2&gt;
+&lt;p&gt;Xue, B.-P., &amp;amp; Xue, F. (2022). &lt;em&gt;Research on System of Access and Benefit Sharing of Traditional Knowledge Related to Genetic Resources&lt;/em&gt;. Journal of MUC (Natural Sciences Edition).&lt;br&gt;
+
+&lt;/p&gt;
+&lt;h2 id=&#34;external-link&#34;&gt;External Link&lt;/h2&gt;
+&lt;p&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
