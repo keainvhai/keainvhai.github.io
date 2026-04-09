@@ -1,0 +1,18 @@
+{{/* Custom article-grid.html to fix GetTerms error in Hugo v0.147+ */}} {{
+$items := .items }} {{ $columns := .config.columns | default 3 }}
+
+<div class="grid md:grid-cols-{{ $columns }} gap-6">
+  {{ range $items }}
+  <article class="p-4 shadow rounded bg-white">
+    <h3 class="text-xl font-semibold mb-2">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    </h3>
+
+    {{ with .Summary }}
+    <p class="text-sm text-gray-600">{{ . }}</p>
+    {{ end }} {{ with .Params.tags }}
+    <div class="mt-2 text-xs text-gray-500">Tags: {{ delimit . ", " }}</div>
+    {{ end }}
+  </article>
+  {{ end }}
+</div>
