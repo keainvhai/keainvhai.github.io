@@ -37,7 +37,7 @@ sections:
 
     design:
       columns: "1"
-        
+
   - block: markdown
     content:
       title: "🐾 My Animal Friends"
@@ -47,7 +47,7 @@ sections:
         <div style="display:grid; grid-template-columns:repeat(auto-fill, minmax(160px,1fr)); gap:16px; margin-top:20px;">
 
           <div style="border-radius:16px; overflow:hidden; border:1px solid #e5e5e5;">
-            <img src="/img/animals/soba.jpg" style="width:100%; aspect-ratio:1/1; object-fit:cover; background:#f5f5f5;">
+            <img src="/img/animals/soba.JPG" style="width:100%; aspect-ratio:1/1; object-fit:cover; background:#f5f5f5;">
             <div style="padding:12px 14px;">
               <strong style="font-size:14px;">Soba</strong><br>
               <span style="font-size:11px; background:#EAF3DE; color:#3B6D11; padding:2px 8px; border-radius:20px; display:inline-block; margin:4px 0 6px;">Dog</span>
@@ -110,7 +110,7 @@ sections:
           </div>
 
           <div style="border-radius:16px; overflow:hidden; border:1px solid #e5e5e5;">
-            <img src="/img/animals/duoduo.jpg" style="width:100%; aspect-ratio:1/1; object-fit:cover; background:#f5f5f5;">
+            <img src="/img/animals/duoduo.JPG" style="width:100%; aspect-ratio:1/1; object-fit:cover; background:#f5f5f5;">
             <div style="padding:12px 14px;">
               <strong style="font-size:14px;">多多</strong><br>
               <span style="font-size:11px; background:#EAF3DE; color:#3B6D11; padding:2px 8px; border-radius:20px; display:inline-block; margin:4px 0 6px;">Dog</span>
@@ -167,5 +167,4 @@ sections:
 
     design:
       columns: "1"
-    
 ---
